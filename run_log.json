@@ -1,0 +1,154 @@
+{
+  "input_root": "C:\\Users\\MUDABBIR\\Documents\\Codex\\2026-07-02\\files-mentioned-by-the-user-dcsc\\work\\input\\DCSC_MIS_Sample_Pack",
+  "files_scanned": 16,
+  "export_rows": 956,
+  "import_rows": 383,
+  "reconciliation_checks": 0,
+  "files": [
+    {
+      "source": "Export\\8M\\8M EXPORT FEB'2026.xlsx",
+      "selected_sheets": [
+        "ANNEX 01-15",
+        "ANNEX 16-28"
+      ],
+      "rows": 144,
+      "recon_status": "OK",
+      "variance": 0.0
+    },
+    {
+      "source": "Export\\AY\\AY EXPORT FEB'2026 (01-15).xlsx",
+      "selected_sheets": [
+        "ANNEXURE"
+      ],
+      "rows": 72,
+      "recon_status": "OK",
+      "variance": 0.0
+    },
+    {
+      "source": "Export\\AY\\AY EXPORT FEB'2026 (16-28).xlsx",
+      "selected_sheets": [
+        "ANNEXURE"
+      ],
+      "rows": 72,
+      "recon_status": "OK",
+      "variance": 0.0
+    },
+    {
+      "source": "Export\\AY\\AY EXPORT JAN'2026 (01-15).xlsx",
+      "selected_sheets": [
+        "ANNEXURE"
+      ],
+      "rows": 72,
+      "recon_status": "OK",
+      "variance": 0.0
+    },
+    {
+      "source": "Export\\AY\\AY EXPORT JAN'2026 (16-31).xlsx",
+      "selected_sheets": [
+        "ANNEXURE"
+      ],
+      "rows": 72,
+      "recon_status": "OK",
+      "variance": 0.0
+    },
+    {
+      "source": "Export\\BZ\\BZ EXPORT FEB'2026.xlsx",
+      "selected_sheets": [
+        "Export TP Data"
+      ],
+      "rows": 95,
+      "recon_status": "OK",
+      "variance": 0.0
+    },
+    {
+      "source": "Export\\SQ\\Export Invoice Format.xlsx",
+      "selected_sheets": [
+        "Data_Insert"
+      ],
+      "rows": 95,
+      "recon_status": "OK",
+      "variance": 0.0
+    },
+    {
+      "source": "Export\\SQ\\SQ EXPORT FEB'2026 (01-15).xlsx",
+      "selected_sheets": [
+        "ANNEXURE"
+      ],
+      "rows": 72,
+      "recon_status": "OK",
+      "variance": 0.0
+    },
+    {
+      "source": "Export\\SQ\\SQ EXPORT FEB'2026 (16-28).xlsx",
+      "selected_sheets": [
+        "ANNEXURE"
+      ],
+      "rows": 72,
+      "recon_status": "OK",
+      "variance": 0.0
+    },
+    {
+      "source": "Export\\SZ\\SZ EXPORT FEB'2026.xlsx",
+      "selected_sheets": [
+        "ANX"
+      ],
+      "rows": 95,
+      "recon_status": "OK",
+      "variance": 0.0
+    },
+    {
+      "source": "Export\\SZ\\SZ EXPORT JAN'2026.xlsx",
+      "selected_sheets": [
+        "ANX"
+      ],
+      "rows": 95,
+      "recon_status": "OK",
+      "variance": 0.0
+    },
+    {
+      "source": "Import\\AY\\AY IMPORT FEB'2026 (01-15).xlsx",
+      "selected_sheets": [
+        "ANNEXURE"
+      ],
+      "rows": 72,
+      "recon_status": "OK",
+      "variance": 0.0
+    },
+    {
+      "source": "Import\\AY\\AY IMPORT FEB'2026 (16-28).xlsx",
+      "selected_sheets": [
+        "ANNEXURE"
+      ],
+      "rows": 72,
+      "recon_status": "OK",
+      "variance": 0.0
+    },
+    {
+      "source": "Import\\SQ\\SQ IMPORT FEB'2026 (01-15).xlsx",
+      "selected_sheets": [
+        "ANNEXURE"
+      ],
+      "rows": 72,
+      "recon_status": "OK",
+      "variance": 0.0
+    },
+    {
+      "source": "Import\\SQ\\SQ IMPORT FEB'2026 (16-28).xlsx",
+      "selected_sheets": [
+        "ANNEXURE"
+      ],
+      "rows": 72,
+      "recon_status": "OK",
+      "variance": 0.0
+    },
+    {
+      "source": "Import\\SZ\\SZ IMPORT FEB'2026.xlsx",
+      "selected_sheets": [
+        "ANX"
+      ],
+      "rows": 95,
+      "recon_status": "OK",
+      "variance": 0.0
+    }
+  ]
+}
